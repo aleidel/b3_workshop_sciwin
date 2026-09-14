@@ -214,49 +214,49 @@ title: "Agenda"
 
 <div class="fa-nav-list">
 
-<a href="/motivation" class="fa-nav-item" style="--accent:#6abf5c; background:rgba(106,191,92,0.06)">
+<a href="./motivation" class="fa-nav-item" style="--accent:#6abf5c; background:rgba(106,191,92,0.06)">
   <span class="fa-nav-num" style="background:#6abf5c">1</span>
   <span class="fa-nav-label">Motivation</span>
   <span class="fa-nav-arrow">→</span>
 </a>
 
-<a href="/workflows" class="fa-nav-item" style="--accent:#9acb4e; background:rgba(154,203,78,0.06)">
+<a href="./workflows" class="fa-nav-item" style="--accent:#9acb4e; background:rgba(154,203,78,0.06)">
   <span class="fa-nav-num" style="background:#9acb4e">2</span>
   <span class="fa-nav-label">Workflows</span>
   <span class="fa-nav-arrow">→</span>
 </a>
 
-<a href="/cwl-basics" class="fa-nav-item" style="--accent:#e6b800; background:rgba(230,184,0,0.07)">
+<a href="./cwl-basics" class="fa-nav-item" style="--accent:#e6b800; background:rgba(230,184,0,0.07)">
   <span class="fa-nav-num" style="background:#e6b800">3</span>
   <span class="fa-nav-label">Common Workflow Language (CWL)</span>
   <span class="fa-nav-arrow">→</span>
 </a>
 
-<a href="/sciwin" class="fa-nav-item" style="--accent:#0f9884; background:rgba(15,152,132,0.06)">
+<a href="./sciwin" class="fa-nav-item" style="--accent:#0f9884; background:rgba(15,152,132,0.06)">
   <span class="fa-nav-num" style="background:#0f9884">4</span>
   <span class="fa-nav-label">SciWIn</span>
   <span class="fa-nav-arrow">→</span>
 </a>
 
-<a href="/session1" class="fa-nav-item" style="--accent:#f26e5f; background:rgba(242,110,95,0.06)">
+<a href="./session1" class="fa-nav-item" style="--accent:#f26e5f; background:rgba(242,110,95,0.06)">
   <span class="fa-nav-num" style="background:#f26e5f">5</span>
   <span class="fa-nav-label">Hands‑On 1: The building blocks</span>
   <span class="fa-nav-arrow">→</span>
 </a>
 
-<a href="/session2" class="fa-nav-item" style="--accent:#973442; background:rgba(151,52,66,0.05)">
+<a href="./session2" class="fa-nav-item" style="--accent:#973442; background:rgba(151,52,66,0.05)">
   <span class="fa-nav-num" style="background:#973442">6</span>
   <span class="fa-nav-label">Hands‑On 2: The workflow</span>
   <span class="fa-nav-arrow">→</span>
 </a>
 
-<a href="/session3" class="fa-nav-item" style="--accent:#4a90c4; background:rgba(74,144,196,0.06)">
+<a href="./session3" class="fa-nav-item" style="--accent:#4a90c4; background:rgba(74,144,196,0.06)">
   <span class="fa-nav-num" style="background:#4a90c4">7</span>
   <span class="fa-nav-label">Hands-On 3: Execution</span>
   <span class="fa-nav-arrow">→</span>
 </a>
 
-<a href="/wrapup" class="fa-nav-item" style="--accent:#4f4b4c; background:rgba(79,75,76,0.05)">
+<a href="./wrapup" class="fa-nav-item" style="--accent:#4f4b4c; background:rgba(79,75,76,0.05)">
   <span class="fa-nav-num" style="background:#4f4b4c">8</span>
   <span class="fa-nav-label">Wrap‑Up</span>
   <span class="fa-nav-arrow">→</span>
