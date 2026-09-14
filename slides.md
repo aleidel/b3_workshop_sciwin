@@ -5,8 +5,6 @@ layout: center
 class: "text-center"
 fonts:
   sans: 'Fira Sans'
-addons:
-  - liveshell
 ---
 
 <!-- --------------------------------------------------------------
